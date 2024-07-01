@@ -69,7 +69,7 @@ public class LoginFeatureTest {
     public void testSearchTaskByName() {
         // Assuming correct implementation of searchTaskByName()
         String taskName = "Create Login";
-        String expectedResult = "Mike Smith, Create Login";
+        String expectedResult = "Mike Smith, Create Login, To Do";
 
         String result = LoginFeature.searchTaskByName(taskName);
 
