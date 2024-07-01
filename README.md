@@ -95,7 +95,7 @@ EasyKanban is a Java application for task management, featuring user registratio
    ```
 2. Navigate to the project directory:
    ```sh
-   cd EasyKanban
+   cd LoginFeature
    ```
 3. Compile the project:
    ```sh
